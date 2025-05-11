@@ -1,6 +1,6 @@
 ### I. Comment récupérer le code 
 ```bash
-git clone 
+git clone https://github.com/surybang/quick_tutorial_openpyxl.git
 ```
 
 ### II. Utilisez uv pour la configuration 
